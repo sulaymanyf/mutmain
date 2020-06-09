@@ -1,0 +1,54 @@
+{
+  "current_time": "当前时间",
+  "current_prayer_time": "当前礼拜结束时间",
+  "app_auto" : "跟随系统",
+  "app_en": "English ",
+  "app_cn": "中文",
+  "app_tr": "Turkish",
+  "quran": "古兰经",
+  "hadis": "圣训",
+  "mecca": "麦加",
+  "chapter": "章",
+  "stay_tuned": "敬请期待",
+  "prifile_name": "一个好人",
+  "setting": "设置",
+  "language": "语言",
+  "latlan": "经纬度",
+  "sect":"学派",
+  "method":"计算方法",
+  "shafi":"沙菲",
+  "hanafi": "哈纳菲",
+  "muslimWorldLeague": "世界穆斯林联盟",
+  "karachi": "卡拉奇伊斯兰科学大学",
+  "ummAlQura": "麦加乌姆古拉大学",
+  "dubai": "阿联酋",
+  "qatar": "卡塔尔",
+  "kuwait": "科威特",
+  "moonsightingCommittee": "月球监察委员会",
+  "singapore": "新加坡",
+  "tehran": "埃及测量总局",
+  "boot_first": "对於宗教，绝无强迫；因为正邪确已分明了。    - [2:256]",
+  "boot_second": "  今天，我已为你们成全你们的宗教，我已完成我所赐你们的恩典，我已选择伊斯兰做你们的宗教。    - [5:3]",
+  "boot_third": " 与艰难相伴的，确是容易.     - [94:5]",
+  "boot_start":"开始",
+  "fajr": "晨礼",
+  "duha": "上午",
+  "dhur": "晌礼",
+  "asr": "晡礼",
+  "maghrib": "昏礼",
+  "isha": "宵礼",
+  "tahajjud": "夜间拜",
+  "sunrise": "日出",
+  "salah": "礼拜",
+  "startup_page": "启动页",
+  "universal": "通用"
+
+
+
+
+
+
+
+
+
+}
